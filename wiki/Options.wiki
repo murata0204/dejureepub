@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Options to be considered about standardizing EPUB at SC34.
 
 = Which "standard" at JTC1? =
 
@@ -6,7 +6,7 @@
  * Technical Specifications
  * International Standards
 
-Of course, standards are better, but the other two might be good enough.
+Of course, standards are better, but the other two might be good enough.  The first two are much easier.
 
 = Which EPUB of IDPF? =
 
