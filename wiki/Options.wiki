@@ -29,9 +29,9 @@
        == Liason relationship with SC34 and MOU with ISO to use EPUB==
 
           (1) SC34 and IDPF need to make liaison relationship (type ?)
-          '*'* SC34 can invite IDPF as a liaison
+          '** SC34 can invite IDPF as a liaison
           (2) SC34 need to consider taking EPUB inself as an ISO TR
-          '*'* In this case, three parts of EPUB(OPS, OCF, and OPF) will be taken in SC34
+          '** In this case, three parts of EPUB(OPS, OCF, and OPF) will be taken in SC34
           (3) ISO central office make MOU with IDPF to issue EPUB specifications as ISO documents
 
        Note: ISO/IEC JTC1 SC36 and IMS Global Learning Consortium followed above precedure to issue IMS specifications such as Access for All and Content Packaging.
