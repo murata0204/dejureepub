@@ -1,56 +1,58 @@
-*# Summary of options to be considered about standardizing EPUB at SC34*
+#summary Options to be considered about standardizing EPUB at SC34
 
 =1. Which "standard" type at ISO/IEC JTC1 ?= 
 
-      * Technical Report
-      * Technical Specification
-      * International Standard
+ * Technical Report
+ * Technical Specification
+ * International Standard
 
-      Note: Internation standard are better, but the other two might be good enough in first stage. The first two options are much easier than Internation Standards.
+ Note: Internation standard are better, but the other two might be good enough in first stage. The first two options are much easier than Internation Standards.
 
 =2. Which version of IDPF EPUB ? =
 
-      * EPUB 2.0.1
-      * EPUB 3.0
+ * EPUB 2.0.1
+ * EPUB 3.0
 
-      Note: EPUB 2.0.1 is needed to consider first because it is released to public on IDPF web site. And EPUB 3.0 is under developing in IDPF.
+ Note: EPUB 2.0.1 is needed to consider first because it is released to public on IDPF web site. And EPUB 3.0 is under developing in IDPF.
 
 =3. Which process of ISO/IEC JTC1 ? =
 
-      * Normal
-      * PAS
+ * Normal
+ * PAS
 
-      Note: "Fast-track" is not an option, since IDPF is not a country or region. If IDPF got a liaison membership with JTC1, IDPF specifications can get fast-track. But this is not recommended within national bodies in ISO/IEC JTC1.
+ Note: "Fast-track" is not an option, since IDPF is not a country or region. If IDPF got a liaison membership with JTC1, IDPF specifications can get fast-track. But this is not recommended within national bodies in ISO/IEC JTC1.
 
 =4. What should be the real relationship between SC34 and IDPF ? =
 
-      ~~ It is assumed that the two organizations have different committees and different chairs.~~
+ ~~ It is assumed that the two organizations have different committees and different chairs.~~
 
-       == Liason relationship with SC34 and MOU with ISO to use EPUB==
+ == Liason relationship with SC34 and MOU with ISO to use EPUB==
 
-          (1) SC34 and IDPF need to make liaison relationship (type ?)
-          '** SC34 can invite IDPF as a liaison
-          (2) SC34 need to consider taking EPUB inself as an ISO TR
-          '** In this case, three parts of EPUB(OPS, OCF, and OPF) will be taken in SC34
-          (3) ISO central office make MOU with IDPF to issue EPUB specifications as ISO documents
+ (1) SC34 and IDPF need to make liaison relationship (type ?)
+  - SC34 can invite IDPF as a liaison.
 
-       Note: ISO/IEC JTC1 SC36 and IMS Global Learning Consortium followed above precedure to issue IMS specifications such as Access for All and Content Packaging.
+ (2) SC34 need to consider taking EPUB inself as an ISO TR
+  - In this case, three parts of EPUB(OPS, OCF, and OPF) will be taken in SC34
 
-       == ODF model (SC34/WG6 and OASIS ODF TC) ==
+ (3) ISO central office make MOU with IDPF to issue EPUB specifications as ISO documents
 
-          SC34 does not make any technical decisions, but the ODF TC makes decisions.
-          OASIS ODF and ISO/IEC ODF should be synchronized, but there have been serious timing issues.
+  Note: ISO/IEC JTC1 SC36 and IMS Global Learning Consortium followed above precedure to issue IMS specifications such as Access for All and Content Packaging.
 
-       == Unicode model (SC2 and Unicode consortium) ==
+ == ODF model (SC34/WG6 and OASIS ODF TC) ==
 
-          Some technical decisions (e.g., CJK) are made in SC2 IRG, but most of the technical decisions are made in the Unicode Consortium.
-          Unicode and 10646 are not identical. They share the same character names and code values.
+ SC34 does not make any technical decisions, but the ODF TC makes decisions.
+ OASIS ODF and ISO/IEC ODF should be synchronized, but there have been serious timing issues.
 
-       == OOXML model (SC34/WG4 and ECMA TC46) ==
+ == Unicode model (SC2 and Unicode consortium) ==
 
-          Technical decisions can made ~~only~~ in SC34, because ECMA members actively participate in all WG4 meetings.
-          ISO/IEC OOXML and Ecma OOXML should be synchronized (even if subtle timing issues exist, but they have been minimized).
+ Some technical decisions (e.g., CJK) are made in SC2 IRG, but most of the technical decisions are made in the Unicode Consortium.
+ Unicode and 10646 are not identical. They share the same character names and code values.
+
+ == OOXML model (SC34/WG4 and ECMA TC46) ==
+
+ Technical decisions can made ~~only~~ in SC34, because ECMA members actively participate in all WG4 meetings.
+ ISO/IEC OOXML and Ecma OOXML should be synchronized (even if subtle timing issues exist, but they have been minimized).
 
 =5. Inputs from SC34 and JTC1 member bodies  =
 
-          Ballots in SC34 and JTC1 will lead to some technical changes, since there will be some sensible technical comments from member bodies. Moreover, SC34 member bodies will submit defect reports, which should be handled.
+ Ballots in SC34 and JTC1 will lead to some technical changes, since there will be some sensible technical comments from member bodies. Moreover, SC34 member bodies will submit defect reports, which should be handled.
