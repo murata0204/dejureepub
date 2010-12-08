@@ -1,6 +1,6 @@
-# Summary Options to be considered about standardizing EPUB at SC34.
+=# Summary Options to be considered about standardizing EPUB at SC34=
 
-=[1] Which "standards" type at ISO/IEC JTC1 ?= 
+=1. Which "standards" type at ISO/IEC JTC1 ?= 
 
       * Technical Reports
       * Technical Specifications
@@ -9,7 +9,7 @@
       Note: Internation Standards are better, but the other two might be good enough in first stage. 
                The first two options are much easier than Internation Standards.
 
-=[2] Which version of IDPF EPUB ? =
+=2. Which version of IDPF EPUB ? =
 
       * EPUB 2.0.1
       * EPUB 3.0
@@ -17,7 +17,7 @@
       Note: EPUB 2.0.1 is needed to consider first because it is released to public on IDPF web site. 
                And EPUB 3.0 is under developing in IDPF.
 
-=[3] Which process of ISO/IEC JTC1 ? =
+=3. Which process of ISO/IEC JTC1 ? =
 
       * Normal
       * PAS
@@ -26,7 +26,7 @@
                 membership with JTC1, IDPF specifications can get fast-track. But this is not recommended 
                 within national bodies in ISO/IEC JTC1.
 
-=[4] What should be the real relationship between SC34 and IDPF ? =
+=4. What should be the real relationship between SC34 and IDPF ? =
 
        It is assumed that the two organizations have different committees and different chairs.
 
@@ -49,7 +49,7 @@
           ISO/IEC OOXML and Ecma OOXML should in sync (subtle timing issues exist 
           but they have been minimized).
 
-       = Inputs from SC34 and JTC1 member bodies  =
+=5. Inputs from SC34 and JTC1 member bodies  =
 
           Ballots in SC34 and JTC1 will lead to some technical changes, since there will be some sensible 
           technical comments from member bodies. Moreover, SC34 member bodies will submit defect 
