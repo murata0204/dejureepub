@@ -52,12 +52,8 @@
 
   Note 1: ISO/IEC JTC1 SC36 and IMS Global Learning Consortium followed above precedure to issue IMS specifications such as Access for All and Content Packaging.
 
-  Note 2: See the ISO/IEC JTC1 resolution:
-    Resolution 58 – Standardization of EPUB
-    JTC 1 resolves that SC 34 initiate a joint activity inviting IDPF, IEC/TC 100 TA10, SC 29, SC 36 and potentially ISO/TC 46/SC 4 (and others) to develop a strategy for the possible standardization of EPUB 3.0 and necessary complementary interfaces.
 
-
-Note: Ballots will lead to some technical changes, since member bodies will submit some sensible comments. Moreover, member bodies will submit defect reports, which should be handled.
+Note2: Ballots will lead to some technical changes, since member bodies will submit some sensible comments. Moreover, member bodies will submit defect reports, which should be handled.
 
  == ODF model (SC34/WG6 and OASIS ODF TC) ==
 
