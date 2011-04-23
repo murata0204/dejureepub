@@ -53,7 +53,7 @@
   Note 1: ISO/IEC JTC1 SC36 and IMS Global Learning Consortium followed above precedure to issue IMS specifications such as Access for All and Content Packaging.
 
 
-Note2: Ballots will lead to some technical changes, since member bodies will submit some sensible comments. Moreover, member bodies will submit defect reports, which should be handled.
+ Note 2: Ballots will lead to some technical changes, since member bodies will submit some sensible comments. Moreover, member bodies will submit defect reports, which should be handled.
 
  == ODF model (SC34/WG6 and OASIS ODF TC) ==
 
