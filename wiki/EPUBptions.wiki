@@ -36,6 +36,7 @@
   # NWIPs are conducted by the parent SC
   # For each SC-level ballot, each SC conducts its own ballot but the parent SC conducts comment disposition.
   # JTC1-level ballots are handled by JTC1.
+
  * A new WG under one parent SC having other SCs as liaisons
 
 =6. What should be the real relationship between the WG and IDPF ? =
