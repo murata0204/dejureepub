@@ -1,12 +1,63 @@
 #summary A list of types of standards
 
-= Introduction =
 
 Which  type of "standard" type at ISO, IEC, or JTC1 is appropriate for EPUB3?
 
  <wiki:toc max_depth="1" />
 
+== Technical  Reports ==
+This option is not viable, since the EPUB3 specifications "contain matter   implying   that   it  is normative".
+This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work] as below:
+
+  3.3  Technical  Reports 
+
+  3.3.1    When a  technical  committee or  subcommittee has collected data of  a different  kind  
+  from that which is normally published as an International Standard (this may include, for 
+  example, data obtained from a survey carried out among the national bodies, data on work in 
+  other international organizations or data on the "state of the art" in relation to standards of 
+  national bodies on a particular subject), the technical committee or subcommittee may decide, 
+  by a simple majority vote of P-members voting, to request the Chief Executive Officer to
+  publish such data   in  the  form of a Technical  Report .  The document  shall  be  entirely 
+  informative  in  nature and shall  not  contain matter   implying   that   it  is normative.   It shall  clearly 
+  explain its relationship to normative aspects of the subject  which are,  or  will  be,  dealt  within 
+  International Standards related to the subject. The Chief Executive Officer, if necessary in 
+  consultation with the technical management board, shall decide whether to publish the 
+  document as a Technical Report. 
+
+  3.3.2    When the P-members of a technical committee or subcommittee have agreed upon 
+  the publication of  a Technical  Report ,   the draft   report  shall  be  submitted  in machine-readable 
+  form by  the secretariat  of   the  technical  committee or subcommittee to the Chief Executive 
+  Officer within 4 months for publication. 
+
+  3.3.3    It is recommended that Technical Reports are regularly reviewed by the committee 
+  responsible,  to ensure  that   they remain  valid.  Withdrawal  of  a Technical  Report   is  decided by 
+  the technical committee or subcommittee responsible.
+
+
+
 == PAS ==
 
-See 
-"3.2  Publicly Available Specifications (PAS)" in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work].
+This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work] as below:
+
+  3.2  Publicly Available Specifications (PAS)  
+  
+  3.2.1    A PAS may be an intermediate  specification, published prior to the development of a 
+  full International Standard, or, in IEC may be a “dual logo” publication published in 
+  collaboration with  an  external  organizat ion.  I t   is a document  not  fulfill ing  the  requirements   for  
+  a standard. 
+  
+  3.2.2    A proposal for submission of a PAS may be made by an A-liaison or D-liaison (see 
+  1.17.2 and 1.17.3)  or  by any P-member  of   the committee . 
+  
+  3.2.3    The PAS is published after verification of the presentation and checking that there is 
+  no conflict with existing International Standards by the committee concerned and following 
+  simple majority approval of the P-members voting of the committee concerned. 
+  
+  3.2.4    A PAS shall remain valid for an ini tial  maximum per iod of  3 years.  The validity may be 
+  extended for a single period up to a maximum of 3 years, at the end of which it shall be 
+  published as another type of normative document, or shall be withdrawn. 
+
+ * Pros
+   * Only one ballot is needed.
+ * Cons
+   * This option might not be good enough for marketing.
