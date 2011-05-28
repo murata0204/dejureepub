@@ -23,4 +23,4 @@ Furthermore, TC100 has its own rules, which are described by [http://tc100.iec.c
 
 [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/9482942/JTC_1_Supplement_%28pdf_version%29.pdf?nodeid=9484244&vernum=-2  Procedures specific to JTC 1] introduces rules specific to JTC1.
 
-Furthermore, JTC1 has [http://isotc.iso.org/livelink/livelink?func=ll&objId=7849325&objAction=browse&sort=name standing documents].  They also describes (minor) rules specific to JTC1.
+Furthermore, JTC1 has [http://isotc.iso.org/livelink/livelink?func=ll&objId=7849325&objAction=browse&sort=name standing documents].  They also describe (minor) rules specific to JTC1.
