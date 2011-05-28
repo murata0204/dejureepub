@@ -25,7 +25,7 @@ Some of the stages can be skipped.  At a minimum, the preliminary stage, committ
 
 INDIRECT international standardization, through a P-member (such as NISO) or Category-A liaison (such as Ecma in JTC1) using the fast-track procedure.  
 IDPF would delegate to the P-member or Category-A liaison  the job of steering EPUB 3.0
-through to publication as an IS.  Note that IDPF cannot directly use of the fast-track procedure, since it cannot be a P-member (country or region) or category-A liaision, which is now prohibitively difficult.
+through to publication as an IS.  Note that IDPF cannot directly use of the fast-track procedure, because IDPF cannot become a P-member country or region and also because it is now prohibitively difficult for any organization to become a category-A liaision.
 
  * Pros
  * Cons
