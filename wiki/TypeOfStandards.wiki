@@ -4,10 +4,7 @@
 
 Which  type of "standard" type at ISO, IEC, or JTC1 is appropriate for EPUB3?
 
-  * Technical Report
-  * Technical Specification
-  * International Standard
-  * PAS
+ <wiki:toc max_depth="1" />
 
 == PAS ==
 
