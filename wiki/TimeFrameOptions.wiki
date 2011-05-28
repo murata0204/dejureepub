@@ -14,4 +14,4 @@ As shown in [http://code.google.com/p/epub-revision/wiki/MovingTargetRiskManagem
    * Pros
       * ISO, IEC, or JTC1 does not have to handle minor versions such as 3.1, 3.2, and so forth.
    * Cons
-      * International standardization by ISO, IEC, or JTC1 becomes rubber stamping.  It may be useful for marketing, but inputs from member bodies will not lead to positive results.
+      * International standardization by ISO, IEC, or JTC1 becomes rubber stamping.  It might be useful for marketing, but inputs from member bodies will not lead to positive results.
