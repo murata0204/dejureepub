@@ -1,0 +1,26 @@
+#summary A list of directives of ISO, IEC (TC100), and JTC1
+
+= Common directives =
+
+[http://isotc.iso.org/livelink/livelink?func=ll&objId=4230455&objAction=browse&sort=subtype ISO/IEC Directives, Part 1: Procedures for the technical work] describes rules common to ISO, IEC, and ISO/IEC JTC1.
+
+
+
+== ISO supplements ==
+
+[http://isotc.iso.org/livelink/livelink?func=ll&objId=10563026&objAction=Open&nexturl=%2Flivelink%2Flivelink%3Ffunc%3Dll%26objId%3D4230455%26objAction%3Dbrowse%26sort%3Dsubtype  ISO Supplement, Procedures specific to ISO] introduces rules specific to ISO.
+
+Note: Some other documents specific to ISO are also available at [http://isotc.iso.org/livelink/livelink?func=ll&objId=4230452&objAction=browse&sort=subtype 03 ISO Supplement (English)], but they are not very relevant to the EPUB discussions.
+
+
+== IEC supplements ==
+
+[http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-iecsup%7Bed6.0%7Den.pdf Procedures specific to IEC] introduces rules specific to IEC.
+
+Furthermore, TC100 has its own rules, which are described by [http://tc100.iec.ch/about/structure/100_1180e_INF.pdf TC 100 Guidelines and Procedures].
+
+== JTC1 supplements ==
+
+[http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/9482942/JTC_1_Supplement_%28pdf_version%29.pdf?nodeid=9484244&vernum=-2  Procedures specific to JTC 1] introduces rules specific to JTC1.
+
+Furthermore, JTC1 has [http://isotc.iso.org/livelink/livelink?func=ll&objId=7849325&objAction=browse&sort=name standing documents].  They also describes (minor) rules specific to JTC1.
