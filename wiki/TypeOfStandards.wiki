@@ -1,0 +1,15 @@
+#summary A list of types of standards
+
+= Introduction =
+
+Which  type of "standard" type at ISO, IEC, or JTC1 is appropriate for EPUB3?
+
+  * Technical Report
+  * Technical Specification
+  * International Standard
+  * PAS
+
+== PAS ==
+
+See 
+"3.2  Publicly Available Specifications (PAS)" in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work].
