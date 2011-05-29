@@ -9,7 +9,7 @@ Which  type of "standard" type at ISO, IEC, or JTC1 is appropriate for EPUB3?
 
 This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work] as below:
 
- 3.1  Technical Specifications 
+ _3.1  Technical Specifications 
 
  3.1.1    Technical Specifications may be prepared and published under the following 
  circumstances and conditions. 
@@ -28,9 +28,9 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
  In IEC, Technical Specifications are subject to the same review and maintenance procedures 
  as IEC Standards. The final paragraph of the above text will therefore need to be replaced by 
  the relevant information on stability dates (see also IEC Supplement to the ISO/IEC 
- Directives) . 
+ Directives)._ 
 
-  3.1.1.2    When   the required  support  cannot  be obta ined  for  a  f ina l draf t   Internationa l 
+  _3.1.1.2    When   the required  support  cannot  be obta ined  for  a  f ina l draf t   Internationa l 
   Standard to pass the approval stage (see 2.7), or in case of doubt concerning consensus, the 
   technical committee or subcommittee may decide, by a two-thirds majority vote of P-members 
   voting, that the document should be published in the form of a Technical Specification. The 
@@ -48,9 +48,9 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
   possible to achieve the agreement necessary for the publication of an International Standard 
   to  replace  the Technical  Specificat ion.   In   IEC, the date  for   this  review is based on the stability 
   date which shall be agreed in advance of the publication of the Technical Specification 
-  (review date). 
+  (review date). _
 
-* Pros
+ * Pros
    * This option is easier and requires less time.
  * Cons
    * This option might not be good enough for marketing.
@@ -59,7 +59,7 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
 This option is not viable, since the EPUB3 specifications "contain matter   implying   that   it  is normative".
 This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work] as below:
 
-  3.3  Technical  Reports 
+  _3.3  Technical  Reports 
 
   3.3.1    When a  technical  committee or  subcommittee has collected data of  a different  kind  
   from that which is normally published as an International Standard (this may include, for 
@@ -81,14 +81,14 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
 
   3.3.3    It is recommended that Technical Reports are regularly reviewed by the committee 
   responsible,  to ensure  that   they remain  valid.  Withdrawal  of  a Technical  Report   is  decided by 
-  the technical committee or subcommittee responsible.
+  the technical committee or subcommittee responsible._
 
 
 = PAS =
 
 This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work] as below:
 
-  3.2  Publicly Available Specifications (PAS)  
+  _3.2  Publicly Available Specifications (PAS)  
   
   3.2.1    A PAS may be an intermediate  specification, published prior to the development of a 
   full International Standard, or, in IEC may be a “dual logo” publication published in 
@@ -104,9 +104,19 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
   
   3.2.4    A PAS shall remain valid for an ini tial  maximum per iod of  3 years.  The validity may be 
   extended for a single period up to a maximum of 3 years, at the end of which it shall be 
-  published as another type of normative document, or shall be withdrawn. 
+  published as another type of normative document, or shall be withdrawn. _
 
  * Pros
    * This option is easier and requires less time.
  * Cons
    * This option might not be good enough for marketing.
+
+= International Standard =
+
+_The primary duty of a technical committee or subcommittee is the development and 
+maintenance of International Standard_ (2  Development of International Standards in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work]. 
+
+ * Pros
+   * This option is best for marketing.
+ * Cons
+   * This option takes more time and effort than the other options do.
