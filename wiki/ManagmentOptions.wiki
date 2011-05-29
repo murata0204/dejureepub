@@ -1,0 +1,45 @@
+#summary One-sentence summary of this page.
+
+Warning: This page is still very sketchy.
+
+= A new WG directly under JTC1 =
+
+= Joint WG =
+
+ _1.12.6  In special cases a joint working group (JWG) may be established to undertake a 
+ specific task in which more than one ISO and/or IEC technical committee or subcommittee is 
+ interested. The decision to establish a joint working group shall be accompanied by mutual 
+ agreement  between   the committees  on: 
+
+ - the committee/ organization having the administrative responsibility for the project; 
+
+ - the convenor of the joint working group; 
+
+ -  the membership  of   the  joint  working group  (membership may be open  to  all   interested  
+ experts from the parent committees, or it may be decided to limit the participation to equal 
+ numbers from each of the parent committee for example). 
+ 
+ The committee/organization with the administrative responsibility for the project shall:
+ 
+ -  record  the project  in  their  programme of  work; 
+
+ - ensure that the comments and votes at all stages of the project are compiled and handled 
+ appropriately (see 2.5,  2.6 and  2.7)  ; 
+
+ - prepare drafts for the committee, enquiry and approval stages according to procedures 
+ given in 2.5, 2.6 and 2.7; 
+
+ - be responsible for maintenance of the publication.  
+ A proposal to establish a joint ISO/IEC working group, including decisions on which 
+ committee/organization is responsible for final publication and subsequent maintenance of the 
+ publication, the joint working group convenor and membership shall be submitted for 
+ information to the technical management boards (see also B.4.2.11)._
+
+The above description does not clearly define the way projects in JWGs are handled.  
+The SC34 secretariat contacted ITTF and found some more information.
+
+
+ * A new or exisiting WG under one parent SC having other SCs as liaisons
+   * IEC  TC100/TA10
+   * ISO TC46
+   * SC34
