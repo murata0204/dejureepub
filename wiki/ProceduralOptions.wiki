@@ -7,7 +7,7 @@ committee, using the NORMAL development process.  This process has the
 following stages (See 
 "2.1.3  Project stage" in [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work]).
 
-Some of the stages can be skipped.  At a minimum, the preliminary stage, committee stage, enquiry stage and publication stage are needed, but the NP ballot and CD ballot can be combined.
+Some of the stages can be skipped.  At a minimum, the proposal stage, committee stage, enquiry stage and publication stage are needed, but the NP ballot and CD ballot can be combined.
 
 || *Project Stage* || *Associated Documents* || 
 || Preliminary  stage  ||  Preliminary  work  i tem || 
@@ -23,9 +23,39 @@ Some of the stages can be skipped.  At a minimum, the preliminary stage, committ
 
 == Fast-track ==
 
-INDIRECT international standardization, through a P-member (such as NISO) or Category-A liaison (such as Ecma in JTC1) using the fast-track procedure.  
-IDPF would delegate to the P-member or Category-A liaison  the job of steering EPUB 3.0
-through to publication as an IS.  Note that IDPF cannot directly use of the fast-track procedure, because IDPF cannot become a P-member country or region and also because it is now prohibitively difficult for any organization to become a category-A liaision.
+The fast-track procedure is defined in Annex F of 
+[http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work]).
+
+  _F.2 “Fast-track procedure”
+  
+  F.2.1  Proposals to apply the fast-track procedure may be made as follows.
+  
+  F.2.1.1 Any P-member or category A liaison organization of a concerned
+  technical committee may propose that an exist ing standard f rom any
+  source be submitted for vote as an enquiry draft. The proposer shall
+  obtain the agreement of the or iginat ing organization before making a
+  proposal. The criteria for proposing an existing standard for the
+  fast-track procedure are a matter for each proposer to decide.
+  
+  F.2.1.2 An international standardizing body recognized by the ISO or IEC council board may 
+  propose that a  standard developed by that body be submitted  for  vote as a final draft 
+  International Standard. 
+  
+  F.2.1.3 An organization having entered into a formal technical
+  agreement with ISO or IEC may propose, in agreement with the
+  appropriate technical committee or subcommittee, that a draft standard
+  developed by that organizat ion be submitted for vote as an enquiry
+  draft within that technical committee or subcommittee.
+  
+  F.2.2 The proposal shall be received by the Chief Executive Officer, who shall take the 
+  following actions: 
+  ...
+  
+  F.2.3 The period for voting and the conditions for approval ...
+  
+  F.2.4 If, for an enquiry draft, the conditions of approval are met ,..._
+ 
+  
 
  * Pros
  * Cons
