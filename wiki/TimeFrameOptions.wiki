@@ -26,4 +26,12 @@ IDPF might want to create minor versions of EPUB3 for different reasons, for exa
       * IDPF will have possibly started a new major version of EPUB, which may well overshadow EPUB3 in the market. 
 
 
+ * Option 3: Never
+   * Pros
+     * No management issues
+   * Cons
+     * No inputs from member bodies
+     * This option might not be good enough for world-wide promotion of EPUB.
+
+
 Note that we might want to combine both options, for example option 1 for a technical specification and option 2 for an international standard.
