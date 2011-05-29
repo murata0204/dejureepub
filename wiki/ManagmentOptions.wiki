@@ -1,8 +1,16 @@
 #summary Which group should be responsible?
 
-Warning: This page is still very sketchy.
+Warning: This page is still sketchy.
 
 = Joint WG =
+
+TWO OR MORE international committees are made jointly responsible for
+maintenance, with one committee appointed to provide administration. A
+Joint Working Group is formed under the administrative committee, but any
+the international committees involved have an effective veto on decisions.
+Consensus will be hard to reach if the separate committees have sharply-
+divergent interests. Joint Working Groups only work well if factional
+interests do NOT divide along committee boundaries.
 
 [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work] defines joint working groups as follows:
 
@@ -49,7 +57,27 @@ The SC34 secretariat contacted ITTF and found some more information.
 
 It is probably a bit too early to list pros and cons of this option, but there are no mechanisms for achieving consensus within and among all committees.  Without such a mechanism, this option might prevent EPUB3 from progressing to the enquiry stage.
 
+== JTC1 WG ==
+
+Aa JWG under JTC 1 is simply a special case.  A
+JWG under JTC 1 is very unlikely to be approved, because the rules make it
+pretty clear that a JWG under JTC 1 would only be set up if the topic of
+standardization does not fall within the current scope of an existing
+committee. Since all the committees interested in EPUB would argue that it
+falls within the scope of their interests, it would be absurd to try to
+suggest that it doesn't fall within the scope of any of them and therefore
+a JWG of JTC 1 is needed.
+
 = A normal WG under existing SCs ==
+
+A SINGLE international committee is responsible for administration and
+for setting up a Working Group of international experts to contribute to
+the maintenance process. If experts from other committees are strongly
+interested in EPUB 3.0, they should probably become members of the national
+mirror committees of this single international committee, because, without
+voting rights, liaison members can only indirectly influence committee
+decisions. Consensus is relatively easy to reach, unless national experts
+are divided and mirror committees fail to agree positions.
 
  * IEC TC100/TA10
  * ISO TC46
