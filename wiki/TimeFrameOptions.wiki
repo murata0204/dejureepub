@@ -1,8 +1,14 @@
 #summary A list of time frame options
 
-As shown in [http://code.google.com/p/epub-revision/wiki/MovingTargetRiskManagement MovingTargetRiskManagement], some specifications normatively referenced in the EPUB3 specifications are moving targets.  When these specifications, IDPF may well create a minor version (3.1 or 3.0.1?).
+= Background =
+
+IDPF is likely to publish EPUB3 in the middle of this year.
+
+As shown in [http://code.google.com/p/epub-revision/wiki/MovingTargetRiskManagement MovingTargetRiskManagement], some specifications normatively referenced in the EPUB3 specifications are moving targets.  When these specifications reach some milestones (e.g., candidate recommendations), IDPF may well create a minor version (3.1 or 3.0.1?).
 
 IDPF might want to create minor versions of EPUB3 for different reasons, for example for dropping seemingly-useful-but-at-risk-of-not-being-implemented features.
+
+= Options =
 
  * Option 1: Immediately after the completion of EPUB3.0 at IDPF in 2011-07?
    * Pros
