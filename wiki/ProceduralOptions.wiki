@@ -31,9 +31,9 @@ The fast-track procedure is defined in Annex F of
   F.2.1  Proposals to apply the fast-track procedure may be made as follows.
   
   F.2.1.1 Any P-member or category A liaison organization of a concerned
-  technical committee may propose that an exist ing standard f rom any
+  technical committee may propose that an existing standard from any
   source be submitted for vote as an enquiry draft. The proposer shall
-  obtain the agreement of the or iginat ing organization before making a
+  obtain the agreement of the originating organization before making a
   proposal. The criteria for proposing an existing standard for the
   fast-track procedure are a matter for each proposer to decide.
   
