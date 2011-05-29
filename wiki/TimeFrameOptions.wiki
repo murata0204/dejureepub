@@ -18,7 +18,7 @@ Moreover, IDPF might want to create minor versions of EPUB3 for different reason
       * ISO, IEC, or JTC1 has to handle minor versions such as 3.1, 3.2, and so forth.
       * Synergy between IDPF and ISO, IEC, or JTC1 can be difficult.
 
- * Option 2: When the EPUB3.X family becomes stable (2013?)
+ * Option 2: When the EPUB3 family becomes stable (2013?)
    * Pros
       * ISO, IEC, or JTC1 does not have to handle minor versions such as 3.1, 3.2, and so forth.
      * This option might be still useful for marketing but not very much.
