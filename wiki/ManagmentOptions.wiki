@@ -1,10 +1,11 @@
-#summary One-sentence summary of this page.
+#summary Which group is responsible?
 
 Warning: This page is still very sketchy.
 
-= A new WG directly under JTC1 =
-
 = Joint WG =
+
+[http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work] defines joint working groups as follows:
+
 
  _1.12.6  In special cases a joint working group (JWG) may be established to undertake a 
  specific task in which more than one ISO and/or IEC technical committee or subcommittee is 
@@ -17,13 +18,13 @@ Warning: This page is still very sketchy.
 
  -  the membership  of   the  joint  working group  (membership may be open  to  all   interested  
  experts from the parent committees, or it may be decided to limit the participation to equal 
- numbers from each of the parent committee for example). 
+ numbers from each of the parent committee for example). _
  
- The committee/organization with the administrative responsibility for the project shall:
+ _The committee/organization with the administrative responsibility for the project shall:
  
- -  record  the project  in  their  programme of  work; 
+ -  record  the project  in  their  programme of  work; _
 
- - ensure that the comments and votes at all stages of the project are compiled and handled 
+ _- ensure that the comments and votes at all stages of the project are compiled and handled 
  appropriately (see 2.5,  2.6 and  2.7)  ; 
 
  - prepare drafts for the committee, enquiry and approval stages according to procedures 
@@ -38,9 +39,18 @@ Warning: This page is still very sketchy.
 The above description does not clearly define the way projects in JWGs are handled.  
 The SC34 secretariat contacted ITTF and found some more information.
 
+ * NP ballots are conducted only in the committee/organization with the administrative responsibility for the project.
+
+ * CD ballots are conducted in all of the involved committees in parallel, although some committees (e.g., ISO/TCs) do not conduct a ballot but merely circulate a committee draft just for comment.  Consensus within and among all committees is required to progress to the enquiry stage (DIS) .  (according to JTC 1 Supplement JA.4, ISO/IEC Directives Annex B, and information from ITTF)
+
+ * DIS ballots are conducted as normal JTC1 (combined) ballots.
+
+ * Comment disposition for ballots are assigned to the JWG.
+
+It is probably a bit too early to list pros and cons of this option, but there are no mechanisms for achieving consensus within and among all committees.  Without such a mechanism, this option might prevent EPUB3 from progressing to the enquiry stage.
+
 = A normal WG under existing SCs ==
 
-
- * IEC  TC100/TA10
+ * IEC TC100/TA10
  * ISO TC46
  * JTC1/SC34
