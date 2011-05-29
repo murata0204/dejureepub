@@ -1,7 +1,6 @@
-#summary A list of types of standards
+#summary Types of Deliverables
 
-
-Which  type of "standard" type at ISO, IEC, or JTC1 is appropriate for EPUB3?
+The primary deliverables of ISO, IEC, or JTC1 is international standards, but they can publish other intermediate deliverables.
 
  <wiki:toc max_depth="1" />
 
