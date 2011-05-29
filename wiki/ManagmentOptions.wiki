@@ -38,8 +38,9 @@ Warning: This page is still very sketchy.
 The above description does not clearly define the way projects in JWGs are handled.  
 The SC34 secretariat contacted ITTF and found some more information.
 
+= A normal WG under existing SCs ==
 
- * A new or exisiting WG under one parent SC having other SCs as liaisons
-   * IEC  TC100/TA10
-   * ISO TC46
-   * SC34
+
+ * IEC  TC100/TA10
+ * ISO TC46
+ * JTC1/SC34
