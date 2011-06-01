@@ -66,5 +66,37 @@ The fast-track procedure is defined in Annex F of
  * Cons
 == TC 100 fast standardization procedure ==
 
+At a minimum, this procedure takes NP 1 month + CDV 3 months (2/3 majority of the votes) for creating an international standard.   It is defined in [http://tc100.iec.ch/about/structure/100_1180e_INF.pdf TC 100 Guidelines and Procedures].
+
+  _10.4 TC 100 fast standardization procedure_
+
+  _10.4.1 Description of procedure_ 
+
+  This approved derogation is lim ited to the TC 100 and their application shall be regularly reviewed by the Standardization Management Board. ...
+
+  _10.4.2 Introduction_
+
+  TC 100 carries out the following new fast standardization procedure:
+
+  One of  the  tasks of  TC 100/AGS  is   the examinat ion of  a “ new accelerated process”  for  
+  efficient and timely documentation of standards. 
+
+  This   is  based on   the premise that  TC 100 was  encouraged by  the Standardization 
+  Management Board to propose methods for the expeditious processing of standards. 
+
+  ...
+
+  _10.4.3 Level One Management of projects_ 
+
+  ...
+
+  _10.4.4 Level Two (Project Teams)_ 
+
+  ...
+
+  _10.4.5 Level Three _
+
+  ...
+  
  * Pros
  * Cons
