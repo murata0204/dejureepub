@@ -18,6 +18,8 @@ Note: EPUB3 has other components: structural vocabularies and fragment identifie
 
 This option covers three specifications of EPUB2, namely OPS, OPC, and OCF.
 
+It appears that nobody in now interested in this option.
+
 Note: EPUB2 also has font mangling.
 
  * Pros
