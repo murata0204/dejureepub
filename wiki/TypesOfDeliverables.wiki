@@ -49,6 +49,9 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
   date which shall be agreed in advance of the publication of the Technical Specification 
   (review date). _
 
+
+Nobody in AHG4 appears to be aware of terribly important technical specifications.
+
  * Pros
    * This option is easier and requires less time.
    * This option allows W3C working drafts (HTML5 and CSS3 modules) as "normative" references.
@@ -105,6 +108,8 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
   3.2.4    A PAS shall remain valid for an ini tial  maximum per iod of  3 years.  The validity may be 
   extended for a single period up to a maximum of 3 years, at the end of which it shall be 
   published as another type of normative document, or shall be withdrawn. _
+
+Nobody in AHG4 appears to be aware of terribly important PAS documents.
 
  * Pros
    * This option is easier and requires less time.
