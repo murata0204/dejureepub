@@ -51,6 +51,7 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
 
  * Pros
    * This option is easier and requires less time.
+   * This option allows W3C working drafts (HTML5 and CSS3 modules) as "normative" references.
  * Cons
    * This option might not be good enough for marketing.
 
@@ -107,6 +108,7 @@ This option is defined in [http://isotc.iso.org/livelink/livelink/fetch/2000/212
 
  * Pros
    * This option is easier and requires less time.
+   * This option allows W3C working drafts (HTML5 and CSS3 modules) as "normative" references.
  * Cons
    * This option might not be good enough for marketing.
 
@@ -119,3 +121,4 @@ maintenance of International Standard_ (2  Development of International Standard
    * This option is best for marketing.
  * Cons
    * This option takes more time and effort than the other options do.
+   * Using W3C working drafts (HTML5 and CSS3 modules) as  normative references might be disallowed.
