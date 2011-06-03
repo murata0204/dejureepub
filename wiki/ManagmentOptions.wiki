@@ -79,6 +79,16 @@ voting rights, liaison members can only indirectly influence committee
 decisions. Consensus is relatively easy to reach, unless national experts
 are divided and mirror committees fail to agree positions.
 
- * IEC TC100/TA10
- * ISO TC46
- * JTC1/SC34
+== IEC TC100/TA10 ==
+
+The TC100-specific fast procedure is available.
+A PAS document is an option.
+
+== ISO TC46 ==
+
+A PAS document is an option.
+
+== JTC1/SC34 ==
+
+The JTC1 PAS procedure is available.
+A PAS document is _not_ an option.
