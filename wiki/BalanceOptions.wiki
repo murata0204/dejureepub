@@ -9,7 +9,7 @@ When specifications made by  forums (such as IDPF) become international standard
 
 This is an extreme option and is not very viable.  Forums do every real work including future extensions and bug fixes.  ISO, IEC, or JTC1 simply does rubber stamping.
 
-Even when this option is intended and agreed by forums and ISO, IEC,  or JTC1, member bodies may submit defect reports and make comments during ballots thus deviating from the original agreement.  Note that some member bodies make national standards by translating ISO, IEC, or JTC1 standards.   
+Even when this option is intended and agreed by forums and ISO, IEC,  or JTC1, member bodies may submit defect reports and make comments during ballots thus deviating from the original agreement.  Note that some member bodies make national standards by translating ISO, IEC, or JTC1 standards, and may find problems during the translation process.
 
 = Review only =
 
@@ -27,7 +27,7 @@ Both forums and ISO, IEC, or JTC1 do real works.  In the case of Unicode, it is 
 
  * Pros
    * ISO, IEC, or JTC1 can play more active roles.
-   *Inputs (not only Defect reports and comments) from ISO, IEC, or JTC1 may help to improve EPUB.
+   * Inputs (not only Defect reports and comments) from ISO, IEC, or JTC1 may help to improve EPUB.
  * Cons
    * Risks of discrepancies between IDPF EPUB and ISO, IEC, or JTC1 EPUB.
    * IDPF might be unhappy since they might lose their members.
