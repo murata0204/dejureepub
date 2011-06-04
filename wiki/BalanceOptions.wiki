@@ -21,7 +21,7 @@ Forums do every real work including future extensions and bug fixes, but forums 
  * Cons
    * ISO, IEC, or JTC1 migth be unhappy since their role is limited.
 
-== Joint work ==
+= Joint work =
 
 Both forums and ISO, IEC, or JTC1 do real works.  In the case of Unicode, it is  a joint work by SC2 and the Unicode Consortium.  CJK ideographic characters are developed by SC2 IRG, while everything else is developed by the Unicode Consortium. 
 
