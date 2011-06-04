@@ -49,7 +49,7 @@ The SC34 secretariat contacted ITTF and found some more information.
 
  * NP ballots are conducted only in the committee/organization with the administrative responsibility for the project.
 
- * CD ballots are conducted in all of the involved committees in parallel, although some committees (e.g., ISO/TCs) do not conduct a ballot but merely circulate a committee draft just for comment.  Consensus within and among all committees is required to progress to the enquiry stage (DIS) .  (according to JTC 1 Supplement JA.4, ISO/IEC Directives Annex B, and information from ITTF)
+ * CD ballots are conducted in all of the involved committees in parallel, although some committees do not conduct a ballot but merely circulate a committee draft just for comment.  Consensus within and among all committees is required to progress to the enquiry stage (DIS) .  (according to JTC 1 Supplement JA.4, ISO/IEC Directives Annex B, and information from ITTF)
 
  * DIS ballots are conducted as normal JTC1 (combined) ballots.
 
