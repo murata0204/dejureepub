@@ -19,6 +19,10 @@ Note: Some other documents specific to ISO are also available at [http://isotc.i
 
 Furthermore, TC100 has its own rules, which are described by [http://tc100.iec.ch/about/structure/100_1180e_INF.pdf TC 100 Guidelines and Procedures].  This document describes the TC100-specific fast procedure.
 
+Recently, the Standardization Management Board (SMB)  of IEC made a [http://code.google.com/p/dejureepub/downloads/detail?name=AC_20118e_AC.pdf&can=2&q= decision] to reduce the enquiry period.
+
+
+
 == JTC1 supplements ==
 
 [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/9482942/JTC_1_Supplement_%28pdf_version%29.pdf?nodeid=9484244&vernum=-2  Procedures specific to JTC 1] introduces rules specific to JTC1.
