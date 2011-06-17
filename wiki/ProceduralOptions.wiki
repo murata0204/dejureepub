@@ -63,6 +63,7 @@ The fast-track procedure is defined in Annex F of
 
 == JTC1 PAS procedure ==
 
+To be supplied.
  * Pros
  * Cons
 == TC 100 fast standardization procedure ==
@@ -104,4 +105,8 @@ At a minimum, this procedure takes NP 1 month + CDV 3 months (2/3 majority of th
 
 
 = Process for Technical Specifications =
-= Process for PAS documents (not available in JTC1) ==
+
+To be supplied.
+
+= Process for PAS documents (not available in JTC1) =
+To be supplied.
