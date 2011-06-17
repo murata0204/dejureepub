@@ -1,5 +1,6 @@
 #summary A list of procedural options.
 
+= Process for International Standards =
 == Normal process ==
 
 DIRECT international standardization, administered by an international
@@ -100,3 +101,7 @@ At a minimum, this procedure takes NP 1 month + CDV 3 months (2/3 majority of th
   
  * Pros
  * Cons
+
+
+= Process for Technical Specifications =
+= Process for PAS documents (not available in JTC1) ==
