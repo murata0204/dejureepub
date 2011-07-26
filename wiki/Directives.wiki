@@ -15,7 +15,7 @@ Note: Some other documents specific to ISO are also available at [http://isotc.i
 
 == IEC supplements ==
 
-[http://www.iec.ch/members_experts/refdocs/iec/isoiecdir-iecsup%7Bed6.0%7Den.pdf Procedures specific to IEC] introduces rules specific to IEC.
+[http://www.iec.ch/members_experts/refdocs/iec/isoiec-dir-iecsup%7Bed6.0%7Den.pdf Procedures specific to IEC] introduces rules specific to IEC.
 
 Furthermore, TC100 has its own rules, which are described by [http://tc100.iec.ch/about/structure/100_1180e_INF.pdf TC 100 Guidelines and Procedures].  This document describes the TC100-specific fast procedure.
 
