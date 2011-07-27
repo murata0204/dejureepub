@@ -109,13 +109,14 @@ At a minimum, this procedure takes NP 1 month + CDV 3 months (2/3 majority of th
 Development of Technical Specification is defined in 3.1 of 
 [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work]).
 
- _3.1 Technical Specifications
+ _3.1 Technical Specifications_
 
  3.1.1 Technical Specifications may be prepared and published under the following circumstances and conditions. 
 
  3.1.1.1 When the subject in question is still under development or where for any other reason there is the future but not immediate possibility of an agreement to publish an International Standard, the technical committee or subcommittee may decide, by following the procedure set out in 2.3, that the publication of a Technical Specification would be appropriate.
 
  When a Technical Specification is used for “pre-standardization purposes”, the following text, completed as appropriate, shall be included in the Foreword:
+
  _“This document is being issued in the Technical Specification series of publications (according to the ISO/IEC Directives, Part 1, 3.1.1.1) as a “prospective standard for provisional application” in the field of ... because there is an urgent need for guidance on how standards in this field should be used to meet an identified need.
 	This document is not to be regarded as an “International Standard”. It is proposed for provisional application so that information and experience of its use in practice may be gathered. Comments on the content of this document should be sent to the ...[ISO Central Secretariat or IEC Central Office]...
 	A review of this Technical Specification will be carried out not later than 3 years after its publication with the options of: extension for another 3 years; conversion into an International Standard; or withdrawal.”_
@@ -127,7 +128,7 @@ Development of Technical Specification is defined in 3.1 of
 Development of Technical Specification is defined in 3.2 of 
 [http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2 ISO/IEC Directives, Part 1: Procedures for the technical work]).
 
- _3.2 Publicly Available Specifications (PAS)
+ _3.2 Publicly Available Specifications (PAS)_
 
 3.2.1	 A PAS may be an intermediate specification, published prior to the development of a full International Standard, or, in IEC may be a “dual logo” publication published in collaboration with an external organization. It is a document not fulfilling the requirements for a standard.
 
