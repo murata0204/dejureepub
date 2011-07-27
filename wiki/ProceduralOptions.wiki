@@ -130,10 +130,10 @@ Development of Technical Specification is defined in 3.2 of
 
  _3.2 Publicly Available Specifications (PAS)_
 
-3.2.1	 A PAS may be an intermediate specification, published prior to the development of a full International Standard, or, in IEC may be a “dual logo” publication published in collaboration with an external organization. It is a document not fulfilling the requirements for a standard.
+ 3.2.1 A PAS may be an intermediate specification, published prior to the development of a full International Standard, or, in IEC may be a “dual logo” publication published in collaboration with an external organization. It is a document not fulfilling the requirements for a standard.
 
-3.2.2	 A proposal for submission of a PAS may be made by an A-liaison or D-liaison (see 1.17.2 and 1.17.3) or by any P-member of the committee.
+ 3.2.2 A proposal for submission of a PAS may be made by an A-liaison or D-liaison (see 1.17.2 and 1.17.3) or by any P-member of the committee.
 
-3.2.3	 The PAS is published after verification of the presentation and checking that there is no conflict with existing International Standards by the committee concerned and following simple majority approval of the P-members voting of the committee concerned.
+ 3.2.3 The PAS is published after verification of the presentation and checking that there is no conflict with existing International Standards by the committee concerned and following simple majority approval of the P-members voting of the committee concerned.
 
-3.2.4	 A PAS shall remain valid for an initial maximum period of 3 years.  The validity may be extended for a single period up to a maximum of 3 years, at the end of which it shall be published as another type of normative document, or shall be withdrawn
+ 3.2.4 A PAS shall remain valid for an initial maximum period of 3 years.  The validity may be extended for a single period up to a maximum of 3 years, at the end of which it shall be published as another type of normative document, or shall be withdrawn
