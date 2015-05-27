@@ -1,0 +1,29 @@
+# EPUB3 #
+
+This option covers four specifications of EPUB3, namely EPUB Publications 3.0, EPUB Content Documents 3.0, EPUB Open Container Format (OCF) 3.0, and EPUB Media Overlays 3.0.
+
+Note: EPUB3 has other components: structural vocabularies and fragment identifier schemes for the EPUB media type.  Furthermore, some other components (e.g., dictionaries) may be added.
+
+  * Pros
+    * EPUB3 is more powerful than EPUB2.
+    * EPUB3 is well internationalized.
+    * EPUB3 provides rich features for accessibility.
+  * Cons
+    * EPUB3 is still a moving target.
+    * EPUB3 is not widely used yet.
+
+# EPUB2 #
+
+This option covers three specifications of EPUB2, namely OPS, OPC, and OCF.
+
+It appears that nobody is now interested in this option.
+
+Note: EPUB2 also has font mangling.
+
+  * Pros
+    * EPUB2 is fairly stable.
+    * EPUB2 is widely used.
+  * Cons
+    * EPUB2 is not very powerful.
+    * EPUB2 is not well internationalized.  Some highly important features such as vertical writing is missing.
+    * Since some features (e.g., NCX and DTBook) of EPUB2 have been seriously reorganized in EPUB3,  this option arguably hampers migration to EPUB3.

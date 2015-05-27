@@ -1,0 +1,139 @@
+
+# Process for International Standards #
+## Normal process ##
+
+DIRECT international standardization, administered by an international
+committee, using the NORMAL development process.  This process has the
+following stages (See
+"2.1.3  Project stage" in [ISO/IEC Directives, Part 1: Procedures for the technical work](http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2)).
+
+Some of the stages can be skipped.  At a minimum, the proposal stage, committee stage, enquiry stage and publication stage are needed, but the NP ballot and CD ballot can be combined.
+
+| **Project Stage** | **Associated Documents** |
+|:------------------|:-------------------------|
+| Preliminary  stage  |  Preliminary  work  i tem |
+| Proposal stage    | New work item proposal (NP)|
+| Preparatory stage | Working Draft(WD)        |
+| Committee stage   | Committee Draft(CD)      |
+| Enquiry stage     | Enquiry Draft (ISO/DIS or IEC/CDV)|
+| Approval stage    | final draft International Standard (FDIS)|
+| Publication stage |  International Standard  |
+
+  * Pros
+  * Cons
+
+## Fast-track ##
+
+The fast-track procedure is defined in Annex F of
+[ISO/IEC Directives, Part 1: Procedures for the technical work](http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2)).
+
+> _F.2 “Fast-track procedure”_
+
+> F.2.1  Proposals to apply the fast-track procedure may be made as follows.
+
+> F.2.1.1 Any P-member or category A liaison organization of a concerned
+> technical committee may propose that an existing standard from any
+> source be submitted for vote as an enquiry draft. The proposer shall
+> obtain the agreement of the originating organization before making a
+> proposal. The criteria for proposing an existing standard for the
+> fast-track procedure are a matter for each proposer to decide.
+
+> F.2.1.2 An international standardizing body recognized by the ISO or IEC council board may
+> propose that a  standard developed by that body be submitted  for  vote as a final draft
+> International Standard.
+
+> F.2.1.3 An organization having entered into a formal technical
+> agreement with ISO or IEC may propose, in agreement with the
+> appropriate technical committee or subcommittee, that a draft standard
+> developed by that organizat ion be submitted for vote as an enquiry
+> draft within that technical committee or subcommittee.
+
+> F.2.2 The proposal shall be received by the Chief Executive Officer, who shall take the
+> following actions:
+> ...
+
+> F.2.3 The period for voting and the conditions for approval ...
+
+> F.2.4 If, for an enquiry draft, the conditions of approval are met ,...
+
+
+
+  * Pros
+  * Cons
+
+## JTC1 PAS procedure ##
+
+To be supplied.
+  * Pros
+  * Cons
+## TC 100 fast standardization procedure ##
+
+At a minimum, this procedure takes NP 1 month + CDV 3 months (2/3 majority of the votes) for creating an international standard.   It is defined in [TC 100 Guidelines and Procedures](http://tc100.iec.ch/about/structure/100_1180e_INF.pdf).
+
+> _10.4 TC 100 fast standardization procedure_
+
+> _10.4.1 Description of procedure_
+
+> This approved derogation is lim ited to the TC 100 and their application shall be regularly reviewed by the Standardization Management Board. ...
+
+> _10.4.2 Introduction_
+
+> TC 100 carries out the following new fast standardization procedure:
+
+> One of  the  tasks of  TC 100/AGS  is   the examinat ion of  a “ new accelerated process”  for
+> efficient and timely documentation of standards.
+
+> This   is  based on   the premise that  TC 100 was  encouraged by  the Standardization
+> Management Board to propose methods for the expeditious processing of standards.
+
+> ...
+
+> _10.4.3 Level One Management of projects_
+
+> ...
+
+> _10.4.4 Level Two (Project Teams)_
+
+> ...
+
+> _10.4.5 Level Three_
+
+> ...
+
+  * Pros
+  * Cons
+
+
+# Process for Technical Specifications #
+
+Development of Technical Specification is defined in 3.1 of
+[ISO/IEC Directives, Part 1: Procedures for the technical work](http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2)).
+
+> _3.1 Technical Specifications_
+
+> 3.1.1 Technical Specifications may be prepared and published under the following circumstances and conditions.
+
+> 3.1.1.1 When the subject in question is still under development or where for any other reason there is the future but not immediate possibility of an agreement to publish an International Standard, the technical committee or subcommittee may decide, by following the procedure set out in 2.3, that the publication of a Technical Specification would be appropriate.
+
+> When a Technical Specification is used for “pre-standardization purposes”, the following text, completed as appropriate, shall be included in the Foreword:
+
+> _“This document is being issued in the Technical Specification series of publications (according to the ISO/IEC Directives, Part 1, 3.1.1.1) as a “prospective standard for provisional application” in the field of ... because there is an urgent need for guidance on how standards in this field should be used to meet an identified need.
+> This document is not to be regarded as an “International Standard”. It is proposed for provisional application so that information and experience of its use in practice may be gathered. Comments on the content of this document should be sent to the ...[Central Secretariat or IEC Central Office](ISO.md)...
+> A review of this Technical Specification will be carried out not later than 3 years after its publication with the options of: extension for another 3 years; conversion into an International Standard; or withdrawal.”_
+
+> 3.1.3 Technical Specifications shall be subject to review by the technical committee or subcommittee not later than 3 years after their publication. The aim of such review shall be to re-examine the situation which resulted in the publication of a Technical Specification and if possible to achieve the agreement necessary for the publication of an International Standard to replace the Technical Specification.
+
+# Process for Publicly Available Specifications (PAS) #
+
+Development of Technical Specification is defined in 3.2 of
+[ISO/IEC Directives, Part 1: Procedures for the technical work](http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2)).
+
+> _3.2 Publicly Available Specifications (PAS)_
+
+> 3.2.1 A PAS may be an intermediate specification, published prior to the development of a full International Standard, or, in IEC may be a “dual logo” publication published in collaboration with an external organization. It is a document not fulfilling the requirements for a standard.
+
+> 3.2.2 A proposal for submission of a PAS may be made by an A-liaison or D-liaison (see 1.17.2 and 1.17.3) or by any P-member of the committee.
+
+> 3.2.3 The PAS is published after verification of the presentation and checking that there is no conflict with existing International Standards by the committee concerned and following simple majority approval of the P-members voting of the committee concerned.
+
+> 3.2.4 A PAS shall remain valid for an initial maximum period of 3 years.  The validity may be extended for a single period up to a maximum of 3 years, at the end of which it shall be published as another type of normative document, or shall be withdrawn

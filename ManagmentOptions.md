@@ -1,0 +1,92 @@
+Warning: This page is still sketchy.
+
+# Joint WG #
+
+TWO OR MORE international committees are made jointly responsible for
+maintenance, with one committee appointed to provide administration. A
+Joint Working Group is formed under the administrative committee, but any
+the international committees involved have an effective veto on decisions.
+Consensus will be hard to reach if the separate committees have sharply-
+divergent interests. Joint Working Groups only work well if factional
+interests do NOT divide along committee boundaries.
+
+[ISO/IEC Directives, Part 1: Procedures for the technical work](http://isotc.iso.org/livelink/livelink/fetch/2000/2122/3146825/4229629/4230450/4230455/ISO_IEC_Directives%2C_Part_1_%28Procedures_for_the_technical_work%29_%282011%2C_8th_ed.%29_%28PDF_format%29.pdf?nodeid=10563026&vernum=-2) defines joint working groups as follows:
+
+
+> _1.12.6  In special cases a joint working group (JWG) may be established to undertake a
+> specific task in which more than one ISO and/or IEC technical committee or subcommittee is
+> interested. The decision to establish a joint working group shall be accompanied by mutual
+> agreement  between   the committees  on:_
+
+> - the committee/ organization having the administrative responsibility for the project;
+
+> - the convenor of the joint working group;
+
+> -  the membership  of   the  joint  working group  (membership may be open  to  all   interested
+> experts from the parent committees, or it may be decided to limit the participation to equal
+> numbers from each of the parent committee for example). 
+
+> _The committee/organization with the administrative responsibility for the project shall:_
+
+> -  record  the project  in  their  programme of  work; 
+
+> _- ensure that the comments and votes at all stages of the project are compiled and handled
+> appropriately (see 2.5,  2.6 and  2.7)  ;_
+
+> - prepare drafts for the committee, enquiry and approval stages according to procedures
+> given in 2.5, 2.6 and 2.7;
+
+> - be responsible for maintenance of the publication.
+> A proposal to establish a joint ISO/IEC working group, including decisions on which
+> committee/organization is responsible for final publication and subsequent maintenance of the
+> publication, the joint working group convenor and membership shall be submitted for
+> information to the technical management boards (see also B.4.2.11).
+
+The above description does not clearly define the way projects in JWGs are handled.
+The SC34 secretariat contacted ITTF and found some more information.
+
+  * NP ballots are conducted only in the committee/organization with the administrative responsibility for the project.
+
+  * CD ballots are conducted in all of the involved committees in parallel, although some committees do not conduct a ballot but merely circulate a committee draft just for comment.  Consensus within and among all committees is required to progress to the enquiry stage (DIS) .  (according to JTC 1 Supplement JA.4, ISO/IEC Directives Annex B, and information from ITTF)
+
+  * DIS ballots are conducted as normal JTC1 (combined) ballots.
+
+  * Comment disposition for ballots are assigned to the JWG.
+
+It is probably a bit too early to list pros and cons of this option, but there are no mechanisms for achieving consensus within and among all committees.  Without such a mechanism, this option might prevent EPUB3 from progressing to the enquiry stage.
+
+## JTC1 WG ##
+
+Aa JWG under JTC 1 is simply a special case.  A
+JWG under JTC 1 is very unlikely to be approved, because the rules make it
+pretty clear that a JWG under JTC 1 would only be set up if the topic of
+standardization does not fall within the current scope of an existing
+committee. Since all the committees interested in EPUB would argue that it
+falls within the scope of their interests, it would be absurd to try to
+suggest that it doesn't fall within the scope of any of them and therefore
+a JWG of JTC 1 is needed.
+
+# A normal WG under existing SCs #
+
+A SINGLE international committee is responsible for administration and
+for setting up a Working Group of international experts to contribute to
+the maintenance process. If experts from other committees are strongly
+interested in EPUB 3.0, they should probably become members of the national
+mirror committees of this single international committee, because, without
+voting rights, liaison members can only indirectly influence committee
+decisions. Consensus is relatively easy to reach, unless national experts
+are divided and mirror committees fail to agree positions.
+
+## IEC TC100/TA10 ##
+
+The TC100-specific fast procedure is available.
+A PAS document is an option.
+
+## ISO TC46 ##
+
+A PAS document is an option.
+
+## JTC1/SC34 ##
+
+The JTC1 PAS procedure is available.
+A PAS document is _not_ an option.

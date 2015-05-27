@@ -1,0 +1,35 @@
+# Introduction #
+
+When specifications made by  forums (such as IDPF) become international standards by ISO, IEC, or JTC1, the balance between forums and ISO, IEC, or JTC1 always become an issue.
+
+
+# Rubber Stamping #
+
+This is an extreme option and is not very viable.  Forums do every real work including future extensions and bug fixes.  ISO, IEC, or JTC1 simply does rubber stamping.
+
+Suppose that this option is intended and agreed by forums and ISO, IEC,  or JTC1.  Nevertheless, member bodies may submit defect reports and make comments during ballots thus deviating from the original agreement.  Note that some member bodies make national standards by translating ISO, IEC, or JTC1 standards, and may find problems during the translation process.
+
+# Review only #
+
+Forums do every real work including future extensions and bug fixes, but forums agree to seriously consider defect reports and comments attached to votes from member bodies in ISO, IEC, or JTC1.
+
+  * Pros
+    * No discrepancies between IDPF EPUB and ISO, IEC, or JTC1 EPUB.
+    * Defect reports and comments from ISO, IEC, or JTC1 may help to improve EPUB.
+  * Cons
+    * ISO, IEC, or JTC1 migth be unhappy since their role is limited.
+
+# Joint work #
+
+Both forums and ISO, IEC, or JTC1 do real works.  In the case of Unicode, it is  a joint work by SC2 and the Unicode Consortium.  CJK ideographic characters are developed by SC2 IRG, while everything else is developed by the Unicode Consortium.
+
+  * Pros
+    * ISO, IEC, or JTC1 can play more active roles.
+    * Inputs (not only Defect reports and comments) from ISO, IEC, or JTC1 may help to extend EPUB.
+  * Cons
+    * Risks of discrepancies between IDPF EPUB and ISO, IEC, or JTC1 EPUB.
+    * IDPF might be unhappy since they might lose their members.
+
+# Takeover #
+
+This is an extreme option.  Forums stop doing real works, and ISO, IEC, or JTC1 takes over.  This option is obviously unacceptable to IDPF.

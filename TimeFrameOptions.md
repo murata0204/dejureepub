@@ -1,0 +1,37 @@
+# Background #
+
+IDPF is likely to publish EPUB3 in the middle of this year.
+
+As shown in [MovingTargetRiskManagement](http://code.google.com/p/epub-revision/wiki/MovingTargetRiskManagement), some specifications normatively referenced in the EPUB3 specifications, most notably HTML5 and CSS3 modules, are moving targets.  When these specifications reach some milestones (e.g., W3C candidate recommendations), IDPF may well create a minor version (3.1 or 3.0.1?).
+
+Moreover, IDPF might want to create minor versions of EPUB3 for different reasons, for example for dropping seemingly-useful-but-at-risk-of-not-being-implemented features.
+
+# Options #
+
+  * Option 1: Immediately after the completion of EPUB3.0 at IDPF  (2011)
+    * Pros
+      * International standardization by ISO, IEC, or JTC1 can be started in a timely manner.
+      * Inputs from member bodies may help to improve EPUB3.
+    * Cons
+      * ISO, IEC, or JTC1 has to handle minor versions such as 3.1, 3.2, and so forth.
+      * Synchronization between IDPF and ISO, IEC, or JTC1 can be difficult.
+
+  * Option 2: When the EPUB3 family becomes stable (2013?)
+    * Pros
+      * ISO, IEC, or JTC1 does not have to handle minor versions such as 3.1, 3.2, and so forth.
+      * This option might be still useful for marketing but not very much.
+    * Cons
+      * International standardization by ISO, IEC, or JTC1 becomes rubber stamping.
+      * Inputs from member bodies will not lead to positive results.
+      * IDPF will have possibly started a new major version of EPUB, which may well overshadow EPUB3 in the market.
+
+
+  * Option 3: Never
+    * Pros
+      * No management issues
+    * Cons
+      * No inputs from member bodies
+      * This option might not be good enough for world-wide promotion of EPUB.
+
+
+Note that we might want to combine both options, for example option 1 for a technical specification and option 2 for an international standard.
